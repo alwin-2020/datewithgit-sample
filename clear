@@ -1,0 +1,62 @@
+[33mcommit 479412dd01a0ec9a35dc37f3b1b6286c20183cf1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a9f197f 7c83d23
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 16:06:15 2020 +0530
+
+    conflict fixed
+
+[33mcommit a9f197f1ac109e56ec072bb68bc933c47577693f[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 15:47:40 2020 +0530
+
+    onnullyaa
+
+[33mcommit 7c83d2379625fee48175c76b3b2dd99bf33d3603[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 15:41:39 2020 +0530
+
+    endhada
+
+[33mcommit 37b021c2204744bfd2176381de9608474b0f0dc1[m
+Merge: 1c534f5 faf2f33
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 13:24:04 2020 +0530
+
+    Merge branch 'feature' into master
+    seperate branches merged
+
+[33mcommit faf2f333e4d5ce07d3f975858c5d9dede237674f[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 12:45:30 2020 +0530
+
+    hello1 another creation happen
+
+[33mcommit 1c534f5ab1d9841e7785bb54aeee460a73e39c37[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 12:28:06 2020 +0530
+
+    new mention in hey
+
+[33mcommit 254bb725ebfa94fb455be3279b6e28e9afa8d5b5[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 11:15:17 2020 +0530
+
+    hey file
+
+[33mcommit 94197301818dce467aba58282e14f1cf3256b82a[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 10:36:16 2020 +0530
+
+    third file
+
+[33mcommit 1ac7ad1d17b5ebecf9202cb2ffe5c74d9c1c254a[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 10:06:07 2020 +0530
+
+    second file
+
+[33mcommit 09323033bf8ab093404501e8b7ca7af140cf60e8[m
+Author: ALWIN P ANTONY <alwinpantony6@gmail.com>
+Date:   Wed Aug 12 10:02:38 2020 +0530
+
+    first file
